@@ -3,7 +3,7 @@
 - 🌱 I’m currently developing games.
 - 📫 How to reach me: citurinn@gmail.com
 
-- I have been developing games since 2020 with Unity Engine and Godot. I am currently learning Unreal.
+- I have been developing games since 2020 with Unity Engine and Godot. I am currently learning Arduino.
   
 - GAMES:
 - Lost Pit DEMO --> https://citurinn.itch.io/lost-pit-demo
