@@ -1,4 +1,4 @@
-- 👋 Hi, I’m citurinn
+- 👋 Hi, I’m Irmak Aytekin
 - 👀 I’m interested in game development, making my own tools
 - 🌱 I’m currently developing games.
 - 📫 How to reach me: citurinn@gmail.com
